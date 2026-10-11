@@ -29,7 +29,7 @@ anova-agricultural-analysis/
 ├── data/
 │   └── dummy data.csv
 │
-├── outputs/
+├── output/
 │   ├── anova_diagnostic_dashboard.png
 │   └── comprehensive_heatmaps.png
 │
